@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m am interested in web development, machine learning and artificial intelligence.<br>🌱 I’m currently learning ReactJS, NextJS, ExpressJS and <br>💬 Ask me about ReactJS and TailwindCSS.<br>📚 MS in Computer Science at Arizona State University, Tempe, AZ.<br>📚 BTech in Computer Science Engineering graduate at Vellore Institute of Technology, Vellore.
+🔭 I’m am interested in web development, machine learning and artificial intelligence.<br>🌱 I’m currently learning ReactJS, NextJS, and ExpressJS<br>💬 Ask me about ReactJS and TailwindCSS.<br>📚 MS in Computer Science at Arizona State University, Tempe, AZ.<br>📚 BTech in Computer Science Engineering graduate at Vellore Institute of Technology, Vellore.
 
 
 ## 🌐 Socials:
